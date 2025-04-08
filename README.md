@@ -30,10 +30,10 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=delmon-dj&show_icons=true&theme=radical" alt="Joseph's GitHub Stats" />
+     <img src="https://github-readme-stats.vercel.app/api?username=delmon-dj&show_icons=true&theme=radical" alt="Joseph's GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+     <img src="https://streak-stats.demolab.com/?user=delmon-dj&theme=radical" alt="GitHub Streak" />
 </p>
 
 
