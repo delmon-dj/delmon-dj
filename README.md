@@ -19,14 +19,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📫 How to reach me - [mailtodelmon@gmail.com](mailto:mailtodelmon@gmail.com)
+
+
 ###
+
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delmon-dj&locale=en&hide_title=false&layout=compact&card_width=323&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
 </div>
 
 ###
-### 📊 GitHub Stats
 
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Joseph's GitHub Stats" />
 </p>
