@@ -1,4 +1,4 @@
-<img src="https://github.com/delmon-dj/delmon-dj/blob/main/Hi%20!%20I%E2%80%99m%20Joseph%20Delmon%20H.png?raw=true"
+<img src="https://github.com/delmon-dj/delmon-dj/blob/main/Data_Analyst%20.png"
      style="opacity: 0.8; background: transparent;" />
 
 ### 
