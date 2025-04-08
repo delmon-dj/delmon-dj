@@ -18,46 +18,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- ⁠ ⁠📫 How to reach me [*mailtodelmon@gmail.com*](mailto:mailtodelmon@gmail.com)
+### 📫 How to reach me - [mailtodelmon@gmail.com](mailto:mailtodelmon@gmail.com)
 ###
-### 
-
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delmon-dj&locale=en&hide_title=false&layout=compact&card_width=323&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
 </div>
-
-### 
-
-<div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-<img width="12" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="csharp logo"  />
-<img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" height="30" alt="csharp logo"  />
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 
-
-<div align="left">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub Badge"/>
-</div>
-
-### 
 
 <br clear="both">
 
