@@ -2,7 +2,7 @@
 
 ### 
 
-<img align="right" alt="coding" width="460" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlzamowdDFqbWxjeDhhZzdxNDVuNmpwMW82em9kbno3YTFhYmt0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlzamowdDFqbWxjeDhhZzdxNDVuNmpwMW82em9kbno3YTFhYmt0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
 ### 🧠 Tools & Technologies
@@ -26,8 +26,6 @@
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delmon-dj&locale=en&hide_title=false&layout=compact&card_width=323&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
 </div>
-
-###
 
 ### 📊 GitHub Stats
 <p align="left">
