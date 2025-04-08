@@ -24,5 +24,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delmon-dj&locale=en&hide_title=false&layout=compact&card_width=323&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
 </div>
 
-<br clear="both">
+###
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Joseph's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+
 
