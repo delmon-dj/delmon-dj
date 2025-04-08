@@ -2,7 +2,7 @@
 
 ### 
 
-<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlzamowdDFqbWxjeDhhZzdxNDVuNmpwMW82em9kbno3YTFhYmt0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlzamowdDFqbWxjeDhhZzdxNDVuNmpwMW82em9kbno3YTFhYmt0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
 ### 🧠 Tools & Technologies
@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Joseph's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=delmon-dj&show_icons=true&theme=radical" alt="Joseph's GitHub Stats" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
